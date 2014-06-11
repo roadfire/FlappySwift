@@ -6,7 +6,7 @@ An implementation of Flappy Bird in Swift for iOS 8.
 
 # About this fork
 
-The sole purpose of this fork is to refactor and make FlappySwift a bit more readable and a bit more Swifty.
+Objective: To make FlappySwift a bit more readable and a bit more Swifty.
 
 # Notes
 
